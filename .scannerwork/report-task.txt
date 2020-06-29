@@ -1,0 +1,6 @@
+projectKey=crm
+serverUrl=http://localhost:8900
+serverVersion=8.3.1.34397
+dashboardUrl=http://localhost:8900/dashboard?id=crm
+ceTaskId=AXLZrTeg5uesHTXg9iK7
+ceTaskUrl=http://localhost:8900/api/ce/task?id=AXLZrTeg5uesHTXg9iK7

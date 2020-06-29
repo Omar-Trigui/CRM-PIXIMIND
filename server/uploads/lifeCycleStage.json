@@ -1,0 +1,13 @@
+{
+    "description": "A list of all types of industries, Created By Omar Trigui",
+    "lifeCycle": [
+        "Subscriber",
+        "Marketing",
+        "qualified",
+        "lead",
+        "Opportunity",
+        "Customer",
+        "Evangelist"
+       
+    ]
+}    

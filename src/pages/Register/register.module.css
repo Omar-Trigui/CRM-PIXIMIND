@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap");
+.left {
+  background-image: url("../../assets/images/login.jpeg");
+  background-repeat: no-repeat;
+}
+.cardRegister {
+  text-align: center;
+  margin: auto;
+  margin-top: calc((100% - 582px)/5);
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+  max-width: 600px;
+  min-width: 500px;
+  border-radius: 15px;
+}
+.languge {
+  position: absolute;
+  margin-left: 10%;
+  margin-top: 1%;
+}
+.title {
+  text-align: center;
+  font-weight: bolder;
+}
+.divLogin {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.loginFormButton {
+  width: 100%;
+  height: 40px;
+  background-color: #27aad8;
+  border-radius: 5px;
+  border-style: none;
+}
+.or {
+  color: #b3b3b3;
+  font-size: 18;
+}
+.shadow {
+  border: 2px solid #cccccc;
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+}
+
+.right {
+  background-color: #36d1e0;
+  height: 100vh;
+  direction: rtl;
+  padding-top: 20%;
+  width: 50%;
+}
+.image {
+  width: 50%;
+  height: 50%;
+}
+.googleImg {
+  width: 20%;
+  height: 80%;
+}
+
+.link {
+  color: #27aad8;
+}
+.labelForm {
+  display: flex;
+  flex: start;
+}
+
+
+
+

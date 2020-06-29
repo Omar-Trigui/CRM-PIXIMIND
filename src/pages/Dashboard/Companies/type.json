@@ -1,0 +1,11 @@
+{
+    "description": "A list of all types of industries, Created By Omar Trigui",
+    "types": [
+        "Prospect",
+        "Partner",
+        "Reseller",
+        "Vendor", 
+        "Other"
+        
+    ]
+}
